@@ -1,38 +1,24 @@
-# 💼 Portfolio — Rafayel Khachatryan
+# Manual QA Projects
 
-Welcome to my QA portfolio! 👋
-Here I collected examples of my test documentation, created during practice on different projects.  
+The purpose of these works is to demonstrate my ability to design, execute and document test activities in a clear and structured way.
 
-The purpose of these works is to demonstrate my ability to design, execute and document test activities in a clear and structured way.  
+> **Note:** These projects are from my early QA practice and primarily demonstrate manual testing and test documentation. My current work focuses on **QA automation and application security testing**.
+
 
 ---
-
 ## 🗂️ Projects:
-### Main Project
-| Project name | Description | Key artifacts |
-| :------------------------------------------------------------------ | :-------------------------------------------------- | :--------------------------------------------------------- |
-| [**Ecommerce&nbsp;Online&nbsp;Store**](Project_3_online_store/)⭐ |End-to-end functional testing of an e-commerce application, including authentification, search, filters and cart.|Test Plan<br>Checklists<br>Test Cases<br>Bug Reports<br>Test Result Report|
 
-                ↑ Click on the project name to navigate to its key artifacts.
-### Other Projects
-| Project name | Description | Key artifacts |
-| :------------------------------------------------------------------ | :-------------------------------------------------- | :--------------------------------------------------------- |
-| [**ArmTypingTest**](Project_1_ArmTypingTest/) | Self-developed desktop typing game in Python (Pygame); full functional testing performed. | Checklists<br>Test cases<br>Bug reports<br>Summary reports |
-| [**AutomationExercise**](Project_2_automationexercise/) | Ad-hoc and functional testing of a public QA training website with focus on core user flows. | Bug reports<br>Summary report |
+| Project name                                            | Date    | Description                                                                                                     | Key artifacts                                                              |
+| :------------------------------------------------------ | :------ | :-------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| [**Ecommerce Online Store**](Project_3_online_store/)   | 2025/12 | End-to-end functional testing of an e-commerce application, including authentication, search, filters and cart. | Test Plan<br>Checklists<br>Test Cases<br>Bug Reports<br>Test Result Report |
+| [**AutomationExercise**](Project_2_automationexercise/) | 2025/09 | Ad-hoc and functional testing of a public QA training website with focus on core user flows.                    | Bug reports<br>Summary report                                              |
+| [**ArmTypingTest**](Project_1_ArmTypingTest/)           | 2025/08 | Self-developed desktop typing game in Python (Pygame); full functional testing performed.                       | Checklists<br>Test cases<br>Bug reports<br>Summary reports                 |
 
-                ↑ Click on the project name to navigate to its key artifacts.
-               
+```
+            ↑ Click on the project name to navigate to its key artifacts.
+```
+
 ---
-
-## 🙋‍♂️ **About me**:
-I am QA engineer interested in manual and automation testing, writing clear test documentation, and continuously improving my skills.  
-You can also check my [Linkedin profile](https://www.linkedin.com/in/khachatryanrafayel/) for more info.  
-
-### 🔗 **Connect with Me:**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rafayel.khachatryan.work@gmail.com) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafayel_khach)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafayel_khach/)
 
 ## 📜 License
 
