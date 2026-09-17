@@ -1,4 +1,4 @@
-# E-commerce Online Store Testing   🛒
+# E-commerce Online Store Testing
 
 A full cycle of functional testing was performed. The details are described in the [Test Plan](test-plan.md).
 ## What was done:
