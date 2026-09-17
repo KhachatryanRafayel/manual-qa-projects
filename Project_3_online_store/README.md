@@ -3,10 +3,10 @@
 A full cycle of functional testing was performed. The details are described in the [Test Plan](test-plan.md).
 ## What was done:
 1.  [Test Plan](test-plan.md) - defined the testing scope, approach, test strategy, and criterias.
-2.  [Check-lists](checklists.md) — compiled a list of features and areas to be tested.
-3.  [Test-cases](test-cases.md) — created detailed test scenarios based on the checklists; **13 issues** were identified during execution.
-4.  [Bug-reports](bug-reports) — documented all identified issues
-5.  [Test Result Report](test-result-report.md) — summarized testing activities and outcomes.
+2.  [Check-lists](checklists.md) - compiled a list of features and areas to be tested.
+3.  [Test-cases](test-cases.md) - created detailed test scenarios based on the checklists; **13 issues** were identified during execution.
+4.  [Bug-reports](bug-reports) - documented all identified issues
+5.  [Test Result Report](test-result-report.md) - summarized testing activities and outcomes.
 
 ---
 
